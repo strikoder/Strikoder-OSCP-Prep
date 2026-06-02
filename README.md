@@ -22,6 +22,15 @@ Browse OSCP-related notes, commands, techniques, walkthrough references, and sea
 
 > Tip: Use the tags on https://strikoder.com/oscp to search by topic, then cross-check the techniques, commands, and methodology with the machines listed in Strilist - OSCP to see practical usage examples on specific targets.
 
+
+---
+
+## Active Directory Enumeration Scripts
+
+Collection of Active Directory enumeration scripts and recon helpers:
+
+- https://github.com/strikoder/OffensiveSecurityScripts/tree/main/Scripts/enum
+
 ---
 
 ## SysReptor Setup
@@ -62,14 +71,6 @@ Public exploit references, PoCs, and vulnerability research collections:
 Curated Windows binaries commonly useful during assessments and labs:
 
 - https://github.com/strikoder/windows-binaries
-
----
-
-## Active Directory Enumeration Scripts
-
-Collection of Active Directory enumeration scripts and recon helpers:
-
-- https://github.com/strikoder/OffensiveSecurity/tree/main/Scripts/enum
 
 ---
 
