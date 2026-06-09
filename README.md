@@ -103,14 +103,6 @@ Common penetration testing and offensive security interview questions:
 
 ---
 
-## ☕ Support
-
-If this project helps you, consider supporting my work:
-
-- https://strikoder.com/coffee
-
----
-
 ## ❤️ Support the Project
 
 If this repository helped you during your OSCP journey, consider:
@@ -122,6 +114,7 @@ If this repository helped you during your OSCP journey, consider:
 Your support helps maintain open-source tooling, labs, notes, walkthroughs, and practical offensive security resources.
 
 👉 https://github.com/sponsors/strikoder
+👉 https://strikoder.com/coffee
 
 ---
 
