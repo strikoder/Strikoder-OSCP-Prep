@@ -18,7 +18,7 @@ OSCP review, preparation strategy, methodology, lessons learned, and exam experi
 Browse OSCP-related notes, commands, techniques, walkthrough references, and searchable machine resources:
 
 - https://strikoder.com/oscp
-- https://github.com/strikoder/CTFS
+- https://strikoder.com/writeups
 
 > Tip: Use the tags on https://strikoder.com/oscp to search by topic, then cross-check the techniques, commands, and methodology with the machines listed in Strilist - OSCP to see practical usage examples on specific targets.
 
